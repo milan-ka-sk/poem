@@ -7,7 +7,7 @@ indigo
 unicorn
 orange 
 blue 
-BLACK
+BROWN
 green
 red
 .. colours of a rainbow...
